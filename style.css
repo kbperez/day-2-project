@@ -1,0 +1,33 @@
+/* app styles */
+header {
+  background: #444;
+  color: #fff;
+  padding: 20px;
+}
+
+main {
+  font-family: Arial;
+
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+h2{
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+p{
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.detail {
+  color: #bbb;
+  font-size: 12px;
+  margin-bottom: 5px:
+
+}
