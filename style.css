@@ -1,12 +1,17 @@
 /* app styles */
+body{
+  font-family: Arial;
+}
+
 header {
-  background: #444;
-  color: #fff;
+  text-align: center; /*Center Header*/
+  background: #594F4F; /*Dark Gray background*/
+  color: #fff; /*White Text*/
   padding: 20px;
 }
 
 main {
-  font-family: Arial;
+
 
 }
 
@@ -29,5 +34,20 @@ p{
   color: #bbb;
   font-size: 12px;
   margin-bottom: 5px:
+
+}
+
+aside{
+  height=150px;
+  background: #45ADA8;/*Teal Backgroun*/
+  color: #9DE0AD;/*Willow Font*/
+  padding: 20px;
+}
+
+footer{footer
+height=50px;
+background: #547980;/*Slate Backgroun*/
+color: #E5FCC2;/*spring green Font*/
+padding: 10px;
 
 }
